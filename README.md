@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Panthon%20Kansap&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=Panthon%20Kansap&fontSize=80" />
 
 - 👋 Hi, I’m @Panthonf
 
