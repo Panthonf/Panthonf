@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Panthon%20Kansap&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Panthon%20Kansap&fontSize=50&fontAlign=top" />
 
 Hi, I’m Panthon Kansap, from Chaingmai, Thailand. I'm very glad you visited. 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
