@@ -7,7 +7,7 @@ Hi, I’m Panthon Kansap, from Chaingmai, Thailand. I'm very glad you visited.
 
 - 🌱 I’m currently learning Java, Python
 
-- 📫 How to reach me FB : Panthon Kansap IG : Pannathon.aef
+- <i class="ri-contacts-book-fill"></i> How to reach me FB : Panthon Kansap IG : Pannathon.aef
 <!---
 Panthonf/Panthonf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
