@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=#idx2&height=300&section=header&text=Panthon%20Kansap&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Panthon%20Kansap&fontSize=70" />
 
-- 👋 Hi, I’m @Panthonf
+Hi, I’m Panthon Kansap, from Chaingmai, Thailand. I'm very glad you visited. 
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 - 👀 I’m interested in Coding #python #WebDevelope
 
